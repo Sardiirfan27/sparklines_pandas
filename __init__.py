@@ -1,4 +1,4 @@
-from sparklines_pandas.sparklines import sparkline
+from sparklines.sparklines import sparkline
 
 	
 __version__ = '0.1.0'
